@@ -1,0 +1,14 @@
+TaskManager/
+│
+├── css/
+│   └── style.css                (Skedari CSS për dizajnin e faqes)
+├── db_connect.php               (Lidhja me bazën e të dhënave MySQL)
+├── index.php                    (Faqja kryesore e aplikacionit)
+├── login.php                    (Faqja e hyrjes për përdoruesit)
+├── login_backend.php            (Logjika për verifikimin e të dhënave të hyrjes)
+├── register.php                 (Faqja për regjistrim të përdoruesve të rinj)
+├── register_backend.php         (Logjika për ruajtjen e përdoruesve të rinj në bazën e të dhënave)
+├── create_task.php              (Faqja për krijimin e detyrave të reja)
+├── create_task_backend.php      (Logjika për ruajtjen e detyrave të reja në bazën e të dhënave)
+├── dashboard.php                (Pulti kryesor ku shfaqen detyrat e përdoruesit)
+└── logout.php                   (Logjika për shkyçjen e përdoruesit nga aplikacioni)
